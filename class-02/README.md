@@ -16,6 +16,34 @@
 
 - **Be sure to raise questions** about any topics that you'd like clarity about. If it is a topic that we will cover in the future, we'll let you know and maybe give a quick answer for now. On this day in particular, when we have so much to cover, it is important to avoid going down time-consuming rabbit-holes.
 
+### Weekly Feedback
+
+- Feedback Results
+    - Describe your last week:
+      - Since I did not take 101/102, I did not know if I was signing up for the right class especially having a full time day job.  After attending the first whole day, I am positive now that I made a good decision.  Little worried about the time management since having a day job, but I should be okay.
+      - so far its been pretty good, just a lot to take in.
+      - Simple review, covered 102 course information and formalities. 
+      - Pre work took a lot of time but I think that working on it consistently last week helped me get back into "school mode".
+      - Everything went well, I'm just learning how to navigate through Canvas.
+    - Least Helpful
+      - One thing, we had technical issues on "recording" for the first day. I am hoping not to have issues like this in the future since these resources will be valuable for us.
+      - Still a little lost on the whole ACP.
+      - Maybe push more people to do 102 before 201 as a lot of people in course were having computer set up issues. 
+      - hard to think of anything since I've only been there for 1 day. There are too many new things and it is hard to keep up. 
+
+    - Most Helpful
+      - I also like "Partner Power Hour", it will give us the real world/first hand experience from people who are currently on the industry and also getting to know people and their industries. 
+      - Being able to code along with instructor. 
+      - tutorials
+      - Learning through problem solving.
+      - I found that taking 102 was extremely helpful in setting me up for the first day of this course. 
+      - It was helpful to have a lecture and lab on the same day. Having an instructor, 2 TA's is great! Both Ray and Adriana were very approachable and helpful! I'm sure I am going to use these resources to the limit! Also it was great to chat with the other students in 301 and hear about their experience so far. 
+
+    - Other
+      - Everyone is really awesome (I know, only one class in) I can't wait to work with you all.
+      - I'm new here and I am not sure if this is part of 102 or even if it is in the prework stuff and i missed it, but it would be nice to have a 1 page cheat sheet that lists all the tools needed for this class with a brief description of what it is.
+      - It would be nice to have a page with information about nearby parking garages and/or public transportation from/to different locations.
+
 ### Learning Objectives
 
 As a result of completing Lecture 2 of Code 201, students will:
